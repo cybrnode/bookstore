@@ -1,0 +1,8 @@
+{
+  "Book": {
+    "title": "string",
+    "author": "string",
+    "isbn": "string",
+    "cover_image_url": "string"
+  }
+}
